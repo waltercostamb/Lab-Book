@@ -1,5 +1,5 @@
 # Lab-Book
-This repository contains a tutorial on how to create a computational Lab Book using Latex. It is aimed at students or researchers who want to start creating documents with Latex and better organize their work information. Start by following the tutorial: Activity_LabBook-with-LaTex_MBWC.pdf, and you will very soon be able to create and maintain your own Lab Book using Latex.
+This repository contains a tutorial on how to create a computational Lab Book using Latex. It is aimed at students or researchers who want to start creating documents with Latex and better organize their work information. Start by downloading this repository on your machine and follow the tutorial: Activity_LabBook-with-LaTex_MBWC.pdf. You will then be able to very soon create and maintain your own Lab Book using Latex.
 
 By writing your Lab Book in Latex, you can easily transfer whole blocks of information to other documents, such as reports, presentations, articles and even your Masters or PhD thesis. This will substantially decrease the time and effort you put into creating documents, since Latex will format your document for you using the class you specified.
 
