@@ -11,6 +11,7 @@
  \usepackage{pdfpages}
  \usepackage{amsmath}
  \usepackage{longtable}
+ \usepackage{tcolorbox}
 
  \newcommand\tab[1][0.5cm]{\hspace*{#1}}
  \newcommand{\command}[1]{\textcolor{blue}{#1}}
@@ -34,7 +35,16 @@
 
  \chapter{May 2018}
  
- \subsection{13 - Learning \LaTeX}
+ \section{13}
+ \subsection{Learning \LaTeX}
+ \hspace{0.2cm}
+ \begin{tcolorbox}[width=6.3in]
+ \scriptsize 
+ - Working folder: \textit{path}
+ \end{tcolorbox}
+ \hspace{0.2cm}
+ \normalsize  
+ 
   \LaTeX{} is a high-quality typesetting system, available as free software, which allows to produce scientific or technical documents \cite{latex-main}. I am using \LaTeX{} to create a Bioinformatics Lab Book. To compile my Lab Book, I can use command lines (\command{pdflatex} and \command{bibtex}). Afterwards I can visualise the produced {\it .pdf} file with evince or another reader. Alternatevily, I can use a Latex editor, such as TexWorks (\url{https://www.tug.org/texworks/}), which allows me to write the code and control the {\it pdf} file in the same environment (Figure~\ref{texworks}).  \\
   
  % \newpage
