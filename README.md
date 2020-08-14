@@ -1,5 +1,9 @@
 # Lab-Book
 
+During my career as a bioinformatician, I have developed my own organizational framework. I write down every task I do every day in my personal lab book, which I write in Latex. This makes it easier and faster to transfer blocks of text to other documents, such as reports or presentations. In addition to that, I save all new versions of my "lab-book.tex" document in GIT, along with my codes, so that I can easily transfer my work to different computers. I also take time to plan my week and organize it into Trello cards or bullet points onto a paper notebook. My framework optimizes my time and boosts my productivity. I invite you to take a look at the visual scheme below and try my Latex tutorial to start your own Lab Book in Latex.
+
+<img border="0" src="https://github.com/waltercostamb/Lab-Book/blob/master/organization-framework.jpg?raw=true" width="600" />  
+
 This repository contains a tutorial on how to create a computational Lab Book using Latex. It is aimed at students or researchers who want to start creating documents with Latex and better organize their work information. Start by downloading this repository on your machine and follow the tutorial: Activity_LabBook-with-LaTex_MBWC.pdf. You will be able then to create and maintain your own Lab Book using Latex.
 
 By writing your Lab Book in Latex, you can easily transfer whole blocks of information to other documents, such as reports, presentations, articles and even your Masters or PhD thesis. This will substantially decrease the time and effort you put into creating documents, since Latex will format your document for you using the class you specified.
