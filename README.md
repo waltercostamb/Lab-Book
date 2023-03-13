@@ -2,7 +2,7 @@
 
 During my career as a bioinformatician, I have developed my own strategy for documentation, backup and planning. I write down every task I do every day in my personal lab book, which I write in Latex. This makes it easier and faster to transfer blocks of text to other documents, such as reports or presentations. In addition to that, I save all new versions of my "lab-book.tex" document in GIT, along with my codes, so that I can easily transfer my work to different computers. I also take time to plan my week and organize it into Trello cards or bullet points onto a paper notebook. My framework optimizes my time and boosts my productivity. I invite you to take a look at the visual scheme below and try my Latex tutorial to start your own Lab Book in Latex.
 
-<img border="0" src="https://github.com/waltercostamb/Lab-Book/blob/master/organization-framework.jpg?raw=true" width="600" />  
+<img border="0" src="https://github.com/waltercostamb/Lab-Book/blob/master/organization-framework.jpg?raw=true" width="550" />  
 
 This repository contains a tutorial on how to create a computational Lab Book using Latex. It is aimed at students or researchers who want to start creating documents with Latex and/or better organize their work information.  
 
@@ -10,7 +10,7 @@ This repository contains a tutorial on how to create a computational Lab Book us
 
 There are different ways to document your work. 
 
-<img border="0" src="https://github.com/waltercostamb/Lab-Book/blob/master/lab-book_wiki.jpg?raw=true" width="600" />  
+<img border="0" src="https://github.com/waltercostamb/Lab-Book/blob/master/figures/lab-book_wiki.jpg?raw=true" width="400" />  
 
 ## Latex
 
@@ -22,7 +22,7 @@ Latex is the prefered choice for creating documents by most researchers of compu
 
 ## Word and wiki
 
-<img border="0" src="https://github.com/waltercostamb/Lab-Book/blob/master/lab-book_wiki.jpg?raw=true" width="600" />  
+<img border="0" src="https://github.com/waltercostamb/Lab-Book/blob/master/figures/lab-book_wiki.jpg?raw=true" width="400" />  
 
 __***Obtaining the repository***__
 
