@@ -4,13 +4,25 @@ During my career as a bioinformatician, I have developed my own strategy for doc
 
 <img border="0" src="https://github.com/waltercostamb/Lab-Book/blob/master/organization-framework.jpg?raw=true" width="600" />  
 
-This repository contains a tutorial on how to create a computational Lab Book using Latex. It is aimed at students or researchers who want to start creating documents with Latex and better organize their work information. Start by downloading this repository on your machine and follow the tutorial: Activity_LabBook-with-LaTex_MBWC.pdf. You will be able then to create and maintain your own Lab Book using Latex.
+This repository contains a tutorial on how to create a computational Lab Book using Latex. It is aimed at students or researchers who want to start creating documents with Latex and/or better organize their work information.  
 
-By writing your Lab Book in Latex, you can easily transfer whole blocks of information to other documents, such as reports, presentations, articles and even your Masters or PhD thesis. This will substantially decrease the time and effort you put into creating documents, since Latex will format your document for you using the class you specified.
+## Approaches to documentation
+
+There are different ways to document your work. 
+
+<img border="0" src="https://github.com/waltercostamb/Lab-Book/blob/master/lab-book_wiki.jpg?raw=true" width="600" />  
+
+## Latex
+
+If you choose Latex, start by downloading this repository on your machine and follow the tutorial: Activity_LabBook-with-LaTex_MBWC.pdf. By writing your Lab Book in Latex, you can easily transfer whole blocks of information to other documents, such as reports, presentations, articles and even your Masters or PhD thesis. This will substantially decrease the time and effort you put into creating documents, since Latex will format your document for you using the class you specified.
 
 Starting to learn Latex by writing a Lab Book is the best choice, since you will have enough time to get used to the Latex language and fix eventual errors that cause your document not to compile. The learning time is significant, especially for non-computer scientists, so be aware of that when you start. It takes some months to feel completely comfortable with Latex, which requires patience and persistence in the beginning. This effort pays off, since you will have afterwards almost no problems at all with citations, formatting and numbering of figures and tables. 
 
 Latex is the prefered choice for creating documents by most researchers of computer science, mathematics, statistics and other hard sciences, because of its professional and beautiful formatting. It is however not so much used in the biological and medical sciences, likely because of its technical character, especially in the beginning. Students of a more biological background should not however feel discouraged, since one does not need to have any prior computational knowledge to learn Latex. Simply by following the tutorial available in this page, you can easily create your first computational Lab Book, and you will increasingly feel more comfortable creating any document with Latex. It will be a powerful tool for you to organize your work and create documents without any concern for formatting. 
+
+## Word and wiki
+
+<img border="0" src="https://github.com/waltercostamb/Lab-Book/blob/master/lab-book_wiki.jpg?raw=true" width="600" />  
 
 __***Obtaining the repository***__
 
