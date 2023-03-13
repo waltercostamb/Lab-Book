@@ -10,7 +10,7 @@ This repository contains a tutorial on how to create a computational Lab Book us
 
 There are different ways to document your work. I divide them into linear or graph. When you write every task one after the other in a report-type document, such as lab-book.tex or lab-book.docx, you have a linear documentation. This is the most common one and is done by scientists in the wet lab. They start each section with a date and write down all experiments. Another alternative is a wiki, which has a graph type structure. Instead of writing each task after the other, you create different wikis and refer them to one another via a hyperlink. This can be done in GITHub or GITLab with markdown. 
 
-<img border="0" src="https://github.com/waltercostamb/Lab-Book/blob/master/figures/approaches.jpg?raw=true" width="400" />  
+<img border="0" src="https://github.com/waltercostamb/Lab-Book/blob/master/figures/approaches.jpg?raw=true" width="500" />  
 
 ## Latex
 
@@ -26,7 +26,7 @@ If you do not wish to learn Latex, you can use word or google docs to create a l
 
 Below follows an example of a graph structure, which I implemented in the form of a wiki using GITLab and markdown. In this case, I have a "Home" wiki, in which I write my priorities in a list and refer to their individual wikis, such as "database" or "cluster", with hyperlinks.  
 
-<img border="0" src="https://github.com/waltercostamb/Lab-Book/blob/master/figures/lab-book_wiki.jpg?raw=true" width="400" />  
+<img border="0" src="https://github.com/waltercostamb/Lab-Book/blob/master/figures/lab-book_wiki.jpg?raw=true" width="500" />  
 
 __***Obtaining the repository***__
 
