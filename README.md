@@ -22,6 +22,10 @@ Latex is the prefered choice by most researchers of computer science, mathematic
 
 ## Word and wiki
 
+If you do not wish to learn Latex, you can use word or google docs to create a linear report. There is an example available in this repository: lab-book.docx. What is important is that you write every day and backup your document.  
+
+Below follows an example of a graph structure, which I implemented in the form of a wiki using GITLab and markdown. In this case, I have a "Home" wiki, in which I write my priorities in a list and refer to their individual wikis, such as "database" or "cluster", with hyperlinks.  
+
 <img border="0" src="https://github.com/waltercostamb/Lab-Book/blob/master/figures/lab-book_wiki.jpg?raw=true" width="400" />  
 
 __***Obtaining the repository***__
