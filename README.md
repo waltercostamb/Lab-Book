@@ -1,16 +1,16 @@
 # Lab-Book
 
-During my career as a bioinformatician, I have developed my own strategy for documentation, backup and planning. I write down every task I do every day in my personal lab book, which I write in Latex. This makes it easier and faster to transfer blocks of text to other documents, such as reports or presentations. In addition to that, I save all new versions of my "lab-book.tex" document in GIT, along with my codes, so that I can easily transfer my work to different computers. I also take time to plan my week and organize it into Trello cards or bullet points onto a paper notebook. My framework optimizes my time and boosts my productivity. I invite you to take a look at the visual scheme below and try my Latex tutorial to start your own Lab Book in Latex.
+This is a summary of my strategy for documentation, backup and planning. For documentation, I write my tasks daily in my personal lab book. In this way I can transfer blocks of text to other documents, such as reports or presentations. In addition, I commit all new versions of my "lab-book.tex" to GIT. In this way I have a backup and can easily access the same documentation in different computers. I also use GIT for my codes for this same purpose and also for version control. For planning, a simple paper notebook and google calendar work very well for me. For planning, you could also try Trello https://trello.com/ or similar tools. The visual scheme below illustrates my organization strategy.
 
 <img border="0" src="https://github.com/waltercostamb/Lab-Book/blob/master/organization-framework.jpg?raw=true" width="550" />  
 
-This repository contains a tutorial on how to create a computational Lab Book using Latex. It is aimed at students or researchers who want to start creating documents with Latex and/or better organize their work information.  
+This repository contains a tutorial on how to create a computational Lab Book using Latex. It is aimed at researchers who want to start creating documents with Latex and/or better organize their work information.  
 
 ## Approaches to documentation
 
 There are different ways to document your work. 
 
-<img border="0" src="https://github.com/waltercostamb/Lab-Book/blob/master/figures/lab-book_wiki.jpg?raw=true" width="400" />  
+<img border="0" src="https://github.com/waltercostamb/Lab-Book/blob/master/figures/approaches.jpg?raw=true" width="400" />  
 
 ## Latex
 
